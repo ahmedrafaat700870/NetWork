@@ -1,6 +1,0 @@
-difference between array list and enums
-
-
-ArrayList class is a re-sizeable array that is present in java.util package. Unlike the built-in arrays, ArrayList can change their size dynamically where elements can be added and removed from an ArrayList. 
-
-In java version 1, enum was not present. With advancement to version, 1.5 enum was introduced in java which is not as same as seen in C/C++ so do the functionality differs. Enum is basically used to constrict the range for example moths, age, or be it a string (considering name of a company) which can not be changed as final values initially itself. In java version 1, enumeration was carried out by interfaces. After version 1.5 it was introduced in java as discussed so simply importing enum class makes working with enum easy simply by importing classes.
