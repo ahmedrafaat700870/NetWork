@@ -1,0 +1,9 @@
+Java InetAddress class represents an IP address. The java.net.InetAddress class provides methods to get the IP of any host name for example www.javatpoint.com, www.google.com, www.facebook.com, etc.
+
+An IP address is represented by 32-bit or 128-bit unsigned number. An instance of InetAddress represents the IP address with its corresponding host name. There are two types of addresses: Unicast and Multicast. The Unicast is an identifier for a single interface whereas Multicast is an identifier for a set of interfaces.
+
+Moreover, InetAddress has a cache mechanism to store successful and unsuccessful host name resolutions.
+
+IP Address
+An IP address helps to identify a specific resource on the network using a numerical representation.
+Most networks combine IP with TCP (Transmission Control Protocol). It builds a virtual bridge among the destination and the source.
