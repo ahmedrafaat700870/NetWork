@@ -1,0 +1,5 @@
+Java Datagram Packet
+Java Datagram Socket and Datagram Packet classes are used for connection-less socket programming using the UDP instead of TCP.
+Java Datagram Socket class
+Java Datagram Socket class represents a connection-less socket for sending and receiving datagram packets. It is a mechanism used for transmitting datagram packets over network.`
+A datagram is basically an information but there is no guarantee of its content, arrival or arrival time.
